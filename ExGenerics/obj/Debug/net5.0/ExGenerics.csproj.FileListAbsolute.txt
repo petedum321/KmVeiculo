@@ -1,0 +1,16 @@
+C:\Users\015238631\Documents\Projetos.net\ExGenerics\ExGenerics\bin\Debug\net5.0\ExGenerics.exe
+C:\Users\015238631\Documents\Projetos.net\ExGenerics\ExGenerics\bin\Debug\net5.0\ExGenerics.deps.json
+C:\Users\015238631\Documents\Projetos.net\ExGenerics\ExGenerics\bin\Debug\net5.0\ExGenerics.runtimeconfig.json
+C:\Users\015238631\Documents\Projetos.net\ExGenerics\ExGenerics\bin\Debug\net5.0\ExGenerics.runtimeconfig.dev.json
+C:\Users\015238631\Documents\Projetos.net\ExGenerics\ExGenerics\bin\Debug\net5.0\ExGenerics.dll
+C:\Users\015238631\Documents\Projetos.net\ExGenerics\ExGenerics\bin\Debug\net5.0\ref\ExGenerics.dll
+C:\Users\015238631\Documents\Projetos.net\ExGenerics\ExGenerics\bin\Debug\net5.0\ExGenerics.pdb
+C:\Users\015238631\Documents\Projetos.net\ExGenerics\ExGenerics\obj\Debug\net5.0\ExGenerics.csproj.AssemblyReference.cache
+C:\Users\015238631\Documents\Projetos.net\ExGenerics\ExGenerics\obj\Debug\net5.0\ExGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\015238631\Documents\Projetos.net\ExGenerics\ExGenerics\obj\Debug\net5.0\ExGenerics.AssemblyInfoInputs.cache
+C:\Users\015238631\Documents\Projetos.net\ExGenerics\ExGenerics\obj\Debug\net5.0\ExGenerics.AssemblyInfo.cs
+C:\Users\015238631\Documents\Projetos.net\ExGenerics\ExGenerics\obj\Debug\net5.0\ExGenerics.csproj.CoreCompileInputs.cache
+C:\Users\015238631\Documents\Projetos.net\ExGenerics\ExGenerics\obj\Debug\net5.0\ExGenerics.dll
+C:\Users\015238631\Documents\Projetos.net\ExGenerics\ExGenerics\obj\Debug\net5.0\ref\ExGenerics.dll
+C:\Users\015238631\Documents\Projetos.net\ExGenerics\ExGenerics\obj\Debug\net5.0\ExGenerics.pdb
+C:\Users\015238631\Documents\Projetos.net\ExGenerics\ExGenerics\obj\Debug\net5.0\ExGenerics.genruntimeconfig.cache
