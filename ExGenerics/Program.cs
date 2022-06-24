@@ -12,7 +12,6 @@ namespace ExGenerics
             Console.WriteLine();
 
             List<Veiculo> list = new List<Veiculo>();
-            List<decimal> kmRodados = new List<decimal>();
 
             for (int i = 1; i <= n; i++)
             {
@@ -26,18 +25,16 @@ namespace ExGenerics
                 decimal kmFinal = decimal.Parse(Console.ReadLine());
 
                 list.Add(new Veiculo(placa, kmInicial, kmFinal));
-
-                kmRodados.Add(kmFinal - kmInicial);
+               
                 Console.WriteLine();
             }
 
             CalculationService calculationService = new CalculationService();
 
-            var result = calculationService.Max(kmRodados);
+            Veiculo max = calculationService.Max(list);
 
-            int posicao = kmRodados.IndexOf(result);
 
-            Console.WriteLine($"O veículo que andou mais foi o veículo de Placa: {list[posicao].Placa}");
+            Console.WriteLine($"O veículo que andou mais foi o veículo de Placa: {max}");
 
             
         }

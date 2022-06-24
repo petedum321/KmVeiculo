@@ -13,6 +13,7 @@ namespace ExGenerics
         public decimal KmInicial { get; set; }
 
         public decimal KmFinal { get; set; }
+        public decimal KmRodados { get; private set; }
 
         public Veiculo()
         {
@@ -24,12 +25,24 @@ namespace ExGenerics
             KmInicial = kmInicial;
             KmFinal = kmFinal;
         }
-
-        
+     
 
         public int CompareTo(object obj)
         {
-            throw new NotImplementedException();
+            if (!(obj is Veiculo))
+            {
+                throw new ArgumentException("Comparing Error: argument is not a Veiculo");
+            }
+
+            KmRodados = KmFinal - KmInicial;
+
+            Veiculo other = obj as Veiculo;
+            return KmRodados.CompareTo(other.KmRodados);
+        }
+
+        public override string ToString()
+        {
+            return $"{Placa}"; 
         }
     }
 }
